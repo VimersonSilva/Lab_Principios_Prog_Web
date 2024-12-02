@@ -1,0 +1,19 @@
+CSS3 e HTML5 - O desenvolvimento destes ferramentais de estruturação textuais
+permitiram implementar um ambiente favorável a interação e dinamicidade das
+partes que compunham uma página web, novas ideias passaram a ser trabalhadas no
+contexto web que exigiram conhecimentos além da simples codificação. O CSS3 é um
+dos principais responsáveis por contribuir para o design responsivo e animações
+das páginas web. 
+
+Hospedagem em Nuvem - Com esta técnica, a necessidade por armazenar sites e
+serviços web em servidores remotos passou a diminuir. Em consoante a isto, os
+custos para se manter os sites no ar a partir dos serviços tradicionais de
+hospedagem não compensavam em relação aos custos da hospedagem em nuvem.
+
+JavaScript - Desenvolvida em meados da década de 1990, a linguagem JavaScript
+tomou forma como a principal ferramenta dentre as linguagens de programação para
+o desenvolvimento web, com a assimilação da organização ECMA International, o
+JavaScript foi adotado como ferramenta integrada aos principais navegadores web,
+isto ampliou e facilitou que uma maior gama de desenvolvedores passassem a
+comumente integra-lo no uso da linguagem em diferentes aŕeas de
+desenvolvimento,seja no desenvolvimento Front-end ou back-end.

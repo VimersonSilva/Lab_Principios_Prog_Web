@@ -1,0 +1,10 @@
+O HTML tornou-se um instrumento importante para o estabelecimento de padrões
+para a organizações de informações textuais no contexto web que crescentemente
+estavam a ser demandados para consumo por entre os usuários. A priori, a web foi
+desenvolvida a partir do compartilhamento de documentos que continham
+hipertextos para outros documentos que facilitariam a troca de informações entre
+pesquisadores, nesta perspectiva, o HTML veio inserir-se como uma ferramenta
+para a estruturação textual que contém elementos que podiam dar uma melhor
+composição das partes destes textos através de títulos, parágrafos, hipertextos.
+Com isso, a web teve grande sobressalto na forma como os usuários poderiam ter
+acesso e interagir com a informação apresentada nos textos.
